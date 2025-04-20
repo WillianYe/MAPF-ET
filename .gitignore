@@ -1,0 +1,9 @@
+.idea
+.vscode
+cmake-*
+build
+paths.txt
+path_coordination
+test.csv
+record.csv
+__pycache__

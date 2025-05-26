@@ -1,5 +1,6 @@
 # Multi-Agent Path Finding for Earliness-Tardiness Costs
-code for paper "just-in-time multi agent path finding for earliness-tardiness costs"
+code for paper "Just-in-time Multi-Agent Path Finding for Earliness-Tardiness Costs"
+
 The 2025 IEEE International Conference on Real-time Computing and Robotics
 ## Usage
 ```
